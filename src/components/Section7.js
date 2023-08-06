@@ -5,7 +5,7 @@ const Section7 = () => {
   return (
     <div>
               <div className='bg-blue-200 '>
-            <div className='flow-root  justify-center px-96'>
+            <div className='flow-root  justify-center px-96 sm:flex '>
                 <div className='float-left border-2 rounded-t-lg rounded-r-lg border-solid text-center bg-white w-64 h-18 mt-8'>
                     <h1 className='text-blue-800 text-lg font-bold'><span className='text-orange-400 font-bold text-3xl'>89%</span><br></br>ON THE COMPLETION</h1>
                 </div>
