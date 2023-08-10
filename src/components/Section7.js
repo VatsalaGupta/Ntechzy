@@ -11,6 +11,7 @@ const Section7 = () => {
                 </div>
                 <div className='float-right border-2 rounded-t-lg rounded-b-lg border-solid bg-white text-center w-64 h-18 mt-8'>
                     <h1 className='text-blue-800 text-lg font-bold'><span className='text-orange-400 font-bold text-3xl'>64</span><br></br>TOTAL PROJECTS</h1>
+           
                 </div>
             </div>
             <div className=' container flex mt-15 lg:px-18 md:flex-row sm:flex-col bg-blue-200 md:px-40 lg:flex-nowrap md:flex-wrap sm:px-48 mt-16 '>

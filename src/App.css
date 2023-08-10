@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.social-icons a:hover {
+  color: #ff5733;
+}
+.social-icons a {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 10px;
+  text-decoration: none;
+}
 
 .App-header {
   background-color: #282c34;
